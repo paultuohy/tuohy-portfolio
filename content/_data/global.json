@@ -1,8 +1,8 @@
 {
   "title": "Paul Tuohy",
   "lang": "en-gb",
-  "footer": "2021 - Built with [Portfolio Starter](https://portfolio-starter.sb-ph.com) (v{{ pkg.version }}) by [Piper Haywood](https://piperhaywood.com) and [Sam Baldwin](https://sambaldwin.info)",
-  "url": "https://portfolio-starter.sb-ph.com",
+  "footer": "(c) Paul Tuohy, 2021 - Built with [Portfolio Starter](https://portfolio-starter.sb-ph.com) (v{{ pkg.version }}) by [Piper Haywood](https://piperhaywood.com) and [Sam Baldwin](https://sambaldwin.info)",
+  "url": "https://tuohy.work",
   "author": {
     "name": "Paul Tuohy",
     "email": "gday@tuohy.work"
