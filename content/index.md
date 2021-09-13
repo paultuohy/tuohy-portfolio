@@ -4,5 +4,5 @@ entries:
   - home
 ---
 
-Paul Tuohy
-Email
+# Paul Tuohy
+# [Email](mailto:gday@paultuohy.com)
