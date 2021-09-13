@@ -1,7 +1,8 @@
 ---
 layout: home
 entries:
-  - portfolio-starter
+  - home
 ---
 
-G'day. 
+Paul Tuohy
+Email
